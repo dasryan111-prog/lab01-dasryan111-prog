@@ -6,6 +6,7 @@ to practise the git workflow in Lab 01.
 - **Name:** Ryan Das
 - **Program:** Computer Science
 - **My GitHub username:** dasryan111-prog
+- **My goal for this course:** Is to develop the fundamental skills required in the industry.
 
 The Lab 01 quiz on Canvas asks the rest (why you're taking the course, how the lab went).
 Answer those in Canvas - this file only needs the three lines above.
